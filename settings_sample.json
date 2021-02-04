@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_TOKEN",
+    "reload_time": 5,
+    "input_file": "/Users/YOUR_USERNAME/Documents/GuruStock Automator/input.csv",
+    "output_file": "/Users/YOUR_USERNAME/Documents/GuruStock Automator/output.csv"
+}

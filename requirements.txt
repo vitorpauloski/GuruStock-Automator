@@ -1,0 +1,2 @@
+GuruStock>=1.0.1
+cx-Freeze>=6.5.3
